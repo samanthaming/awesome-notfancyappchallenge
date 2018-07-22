@@ -29,8 +29,11 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### JavaScript
 
 - [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Not Fancy Game, you vs your computer. By [Nima Ra](https://github.com/Nima-Ra)
-- [Not Fancy Fast Move](https://github.com/Nima-Ra/fast-move-not-fancy) - Not Fancy JavaScript Game With PhaserJS. By [Nima Ra](https://github.com/Nima-Ra)
 
 ### jQuery
 
 - [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - Not Fancy BMI calculator. By [Nima Ra](https://github.com/nima-ra)
+
+### Phaser
+
+- [Not Fancy Fast Move](https://github.com/Nima-Ra/fast-move-not-fancy) - Not Fancy JavaScript Game With PhaserJS. By [Nima Ra](https://github.com/Nima-Ra)
