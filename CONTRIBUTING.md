@@ -6,7 +6,7 @@
 
 ## Format
 
-- `[Name](Link to Github Repo or CodePen, NOT demo)` - Description
+`- [Name](Link to Github Repo or CodePen, NOT demo)` - Description
 
 ## Categories
 
