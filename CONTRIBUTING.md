@@ -1,8 +1,8 @@
 # Contributing Guide
 
 1. Please put you challenge under the right category 👍
-2. Link must link to the github repository, NOT the demo
-3. Entry descriptions ends in a period `.`
+2. Link must link to the github repository, NOT the demo.
+3. Entry descriptions ends in a period `.`. Please keep it short and max 1 sentence.
 4. Entry author's link must link to your github account.
 5. Add your items to the top of the list. To encourage challenges, orders are based on most recent dates first ⚡️
 

@@ -22,9 +22,9 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 - [Affine Cipher](https://github.com/Nima-Ra/AffineCipher) - Not Fancy Affine Cipher Encoder And Decoder. By [Nima Ra](https://github.com/Nima-Ra)
 - [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Not Fancy digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)
-- [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Not Fancy Pokemon Speak web app. Make the Pokemon speak using your keyboard. By [Samantha Ming](https://github.com/samanthaming)
-- [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) - Not Fancy Random Number Generator. By [Samantha Ming](https://github.com/samanthaming)
-- [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - Not Fancy Todo App. By [Samantha Ming](https://github.com/samanthaming)
+- [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Make the Pokemon speak using your keyboard. By [Samantha Ming](https://github.com/samanthaming)
+- [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) By [Samantha Ming](https://github.com/samanthaming)
+- [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - By [Samantha Ming](https://github.com/samanthaming)
 
 ### JavaScript
 
