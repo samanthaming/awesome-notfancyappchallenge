@@ -1,12 +1,12 @@
 # Contributing Guide
 
 1. Please put you challenge under the right category 👍
-2. Link must be link to the github repository OR codepen, NOT the demo
+2. Link must link to the github repository OR codepen, NOT the demo
 3. All entry descriptions ends in a period `.`
 
 ## Format
 
-`- [Name](Link to Github Repo or CodePen, NOT demo)` - Description
+- `[Name](Link to Github Repo or CodePen, NOT demo)` - Description
 
 ## Categories
 
