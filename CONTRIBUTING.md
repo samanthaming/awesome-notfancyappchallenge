@@ -8,11 +8,13 @@
 
 ## Format
 
-`- [Name](Link to Github Repo, NOT demo) - 1 Sentence Description. By [Your Name](Your Github Link)`
+`- [Name](Link to Github Repo, NOT demo) - 1 Sentence Max Description. By [Your Name](Your Github Link)`
 
-_Example_
+_Description is optional_
 
-`- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Not Fancy Clock. By [Samantha Ming](https://github.com/samanthaming)`
+**Example**
+
+`- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Not fancy digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)`
 
 ## Categories
 
@@ -23,6 +25,6 @@ If you don't see your category, feel free to add it.
 
 `### Category Name`
 
-_Example_
+**Example**
 
 `### jQuery`
