@@ -1,10 +1,10 @@
 # #NotFancyAppChallenge [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Challenge Rule
+### Rule
 
 > This challenge is all about learning by doing. The only rule, it must be completed within 24 hours. Anything more, it’s too fancy 😜
 
-### Get a Shoutout 💛
+#### Get a Shoutout 💛
 
 Use the hashtag or tag me on social media so I can give you a shoutout!
 
@@ -12,7 +12,7 @@ Use the hashtag or tag me on social media so I can give you a shoutout!
 - Twitter [@samantha_ming](https://twitter.com/samantha_ming)
 - Instagram [@samanthaming](https://www.instagram.com/samanthaming/)
 
-### Guideline
+#### Guideline
 
 Please read the [contribution](/CONTRIBUTING.md) guideline before adding your challenge.
 
