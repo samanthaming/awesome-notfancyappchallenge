@@ -37,3 +37,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### Phaser
 
 - [Not Fancy Fast Move](https://github.com/Nima-Ra/fast-move-not-fancy) - Not Fancy JavaScript Game With PhaserJS. By [Nima Ra](https://github.com/Nima-Ra)
+
+### Android
+
+- [Not Fancy Random Password Generator](https://github.com/mddanishansari/not-fancy-random-password-generator) - By [MD Danish Ansari](https://github.com/mddanishansari)
