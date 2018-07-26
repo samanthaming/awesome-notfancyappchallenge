@@ -36,6 +36,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### jQuery
 
 - [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - Not Fancy BMI calculator. By [Nima Ra](https://github.com/nima-ra)
+- [Not Fancy Stopwatch](https://github.com/Nima-Ra/Stopwatch) - Not Fancy Stopwatch. By [Nima Ra](https://github.com/Nima-ra/stopwatch)
 
 ### Phaser
 
