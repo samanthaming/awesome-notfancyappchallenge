@@ -20,6 +20,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 ### Vue.js
 
+- [Not Fancy Image Upload](https://github.com/samanthaming/not-fancy-image-upload) - Upload image via drag&drop or file input. By [Samantha Ming](https://github.com/samanthaming)
 - [Affine Cipher](https://github.com/Nima-Ra/AffineCipher) - Not Fancy Affine Cipher Encoder And Decoder. By [Nima Ra](https://github.com/Nima-Ra)
 - [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Not Fancy digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)
 - [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Make the Pokemon speak using your keyboard. By [Samantha Ming](https://github.com/samanthaming)
