@@ -21,15 +21,15 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### Vue.js
 
 - [Not Fancy Image Upload](https://github.com/samanthaming/not-fancy-image-upload) - Upload image via drag&drop or file input. By [Samantha Ming](https://github.com/samanthaming)
-- [Affine Cipher](https://github.com/Nima-Ra/AffineCipher) - Not Fancy Affine Cipher Encoder And Decoder. By [Nima Ra](https://github.com/Nima-Ra)
-- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Not Fancy digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)
+- [Affine Cipher](https://github.com/Nima-Ra/AffineCipher) - Affine Cipher Encoder And Decoder. By [Nima Ra](https://github.com/Nima-Ra)
+- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)
 - [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Make the Pokemon speak using your keyboard. By [Samantha Ming](https://github.com/samanthaming)
 - [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) By [Samantha Ming](https://github.com/samanthaming)
 - [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - By [Samantha Ming](https://github.com/samanthaming)
 
 ### JavaScript
 
-- [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Not Fancy Game, you vs your computer. By [Nima Ra](https://github.com/Nima-Ra)
+- [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Play your childhood's game. By [Nima Ra](https://github.com/Nima-Ra)
 - [Simple Clock](https://github.com/mpweber/NotFancyAppChallenge/tree/master/SimpleClock) - A very simple clock. By [mpweber](https://github.com/mpweber)
 - [Random Password Generator](https://github.com/mpweber/NotFancyAppChallenge/tree/master/Random-Password-Generator) - Set a length and create a random password. By [mpweber](https://github.com/mpweber)
 - [Linear Gradient Generator](https://github.com/jacobc1204/gradient_app) - Move your cursor or thumb around the screen to watch the gradient change! By [Jacob Carlton](https://github.com/jacobc1204)
@@ -37,12 +37,12 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 ### jQuery
 
-- [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - Not Fancy BMI calculator. By [Nima Ra](https://github.com/nima-ra)
-- [Not Fancy Stopwatch](https://github.com/Nima-Ra/Stopwatch) - Not Fancy Stopwatch. By [Nima Ra](https://github.com/Nima-ra/stopwatch)
+- [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - BMI calculator. By [Nima Ra](https://github.com/nima-ra)
+- [Not Fancy Stopwatch](https://github.com/Nima-Ra/Stopwatch) - Simple Stopwatch. By [Nima Ra](https://github.com/Nima-ra/stopwatch)
 
 ### Phaser
 
-- [Not Fancy Fast Move](https://github.com/Nima-Ra/fast-move-not-fancy) - Not Fancy JavaScript Game With PhaserJS. By [Nima Ra](https://github.com/Nima-Ra)
+- [Not Fancy Fast Move](https://github.com/Nima-Ra/fast-move-not-fancy) - JavaScript Game With PhaserJS. By [Nima Ra](https://github.com/Nima-Ra)
 
 ### Android
 
