@@ -11,7 +11,7 @@
 `- [Name](Link to Github Repo, NOT demo) - 1 Sentence Max Description. By [Your Name](Your Social Media Link)`
 
 - Description is optional.
-- ex. Twitter, Instagram, or CodePen. One only external link allowed.
+- ex. Twitter, Instagram, or CodePen. Only ONE external link allowed.
 
 #### Example
 

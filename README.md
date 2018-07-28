@@ -20,12 +20,12 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 ### Vue.js
 
-- [Not Fancy Image Upload](https://github.com/samanthaming/not-fancy-image-upload) - Upload image via drag&drop or file input. By [Samantha Ming](https://github.com/samanthaming)
+- [Not Fancy Image Upload](https://github.com/samanthaming/not-fancy-image-upload) - Upload image via drag&drop or file input. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Affine Cipher](https://github.com/Nima-Ra/AffineCipher) - Affine Cipher Encoder And Decoder. By [Nima Ra](https://github.com/Nima-Ra)
-- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)
-- [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Make the Pokemon speak using your keyboard. By [Samantha Ming](https://github.com/samanthaming)
-- [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) By [Samantha Ming](https://github.com/samanthaming)
-- [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - By [Samantha Ming](https://github.com/samanthaming)
+- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Digital and analog clock. By [@samantha_ming](https://twitter.com/samantha_ming)
+- [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Make the Pokemon speak using your keyboard. By [@samantha_ming](https://twitter.com/samantha_ming)
+- [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) By [@samantha_ming](https://twitter.com/samantha_ming)
+- [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - By [@samantha_ming](https://twitter.com/samantha_ming)
 
 ### JavaScript
 
