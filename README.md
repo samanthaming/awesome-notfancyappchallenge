@@ -26,6 +26,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 - [Not Fancy Pokemon Speak](https://github.com/samanthaming/not-fancy-pokemon-speaks) - Make the Pokemon speak using your keyboard. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - By [@samantha_ming](https://twitter.com/samantha_ming)
+- [Dummy Password Generator](https://github.com/rfoel/dummy-password-generator) - By [@rfoel](https://twitter.com/rfoel)
 
 ### JavaScript
 
