@@ -40,3 +40,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### Phaser
 
 - [Not Fancy Fast Move](https://github.com/Nima-Ra/fast-move-not-fancy) - Not Fancy JavaScript Game With PhaserJS. By [Nima Ra](https://github.com/Nima-Ra)
+
+### React.js
+
+- [Bitcoin CryptoCard](https://github.com/mpweber/Bitcoin-CryptoCard-using-ReactJs) - Cryptocard component to track the Bitcoin price and price change. By [mpweber](https://github.com/mpweber)
