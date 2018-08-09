@@ -31,10 +31,9 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### JavaScript
 
 - [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Play your childhood's game. By [Nima Ra](https://github.com/Nima-Ra)
-- [Simple Clock](https://github.com/mpweber/NotFancyAppChallenge/tree/master/SimpleClock) - A very simple clock. By [@mp_weber](https://twitter.com/mp_weber)
-- [Random Password Generator](https://github.com/mpweber/NotFancyAppChallenge/tree/master/Random-Password-Generator) - Set a length and create a random password. By [@mp_weber](https://twitter.com/mp_weber)
+- [Simple Clock](https://github.com/mpweber/NotFancyAppChallenge/tree/master/SimpleClock) - A very simple clock. By [mpweber](https://github.com/mpweber)
+- [Random Password Generator](https://github.com/mpweber/NotFancyAppChallenge/tree/master/Random-Password-Generator) - Set a length and create a random password. By [mpweber](https://github.com/mpweber)
 - [Linear Gradient Generator](https://github.com/jacobc1204/gradient_app) - Move your cursor or thumb around the screen to watch the gradient change! By [Jacob Carlton](https://github.com/jacobc1204)
-
 
 ### jQuery
 

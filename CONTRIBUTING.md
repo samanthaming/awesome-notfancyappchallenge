@@ -3,18 +3,19 @@
 1. Please put you challenge under the right category 👍
 2. Link must link to the github repository, NOT the demo.
 3. Entry description is 1 sentence max and ends in a period `.`
-4. Entry author's link must link to your github account.
+4. Entry author's link can link to ONE of your preferred social media profile.
 5. Add your items to the top of the list. To encourage challenges, orders are based on most recent dates first ⚡️
 
 ## Format
 
-`- [Name](Link to Github Repo, NOT demo) - 1 Sentence Max Description. By [Your Name](Your Github Link)`
+`- [Name](Link to Github Repo, NOT demo) - 1 Sentence Max Description. By [Your Name](Your Social Media Link)`
 
-_Description is optional_
+- Description is optional.
+- ex. Twitter, Instagram, or CodePen. Only ONE external link allowed.
 
 #### Example
 
-`- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Not fancy digital and analog clock. By [Samantha Ming](https://github.com/samanthaming)`
+`- [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Digital and analog clock. By [@samantha_ming](https://www.instagram.com/samanthaming/)`
 
 ## Categories
 
