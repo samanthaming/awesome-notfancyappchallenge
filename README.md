@@ -20,6 +20,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 ### Vue.js
 
+- [Not Fancy Canvas Drawing](https://github.com/samanthaming/not-fancy-canvas-drawing) - HTML5 canvas drawing web app. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Image Upload](https://github.com/samanthaming/not-fancy-image-upload) - Upload image via drag&drop or file input. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Affine Cipher](https://github.com/Nima-Ra/AffineCipher) - Affine Cipher Encoder And Decoder. By [Nima Ra](https://github.com/Nima-Ra)
 - [Not Fancy Clock](https://github.com/samanthaming/not-fancy-clock) - Digital and analog clock. By [@samantha_ming](https://twitter.com/samantha_ming)
