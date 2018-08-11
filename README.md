@@ -48,6 +48,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 ### Android
 
 - [Not Fancy Random Password Generator](https://github.com/mddanishansari/not-fancy-random-password-generator) - By [MD Danish Ansari](https://github.com/mddanishansari)
+- [Not Fancy Canvas Draw](https://github.com/Vivek5287445/NotAFancyCanvasDraw) - By [Vivek Kaushik](https://www.instagram.com/iamvivekkaushik/)
 
 ### React.js
 
