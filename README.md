@@ -40,7 +40,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 - [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - BMI calculator. By [Nima Ra](https://github.com/nima-ra)
 - [Not Fancy Stopwatch](https://github.com/Nima-Ra/Stopwatch) - Simple Stopwatch. By [Nima Ra](https://github.com/Nima-ra/stopwatch)
-- [Cross Stitch Toy](https://gist.github.com/WaffleGnome/a0468bf56299098948649431acaeeb42) -a cross stitch toy for the #notfancyappchallenge and #codepenchallenge. By [kassandra escoe](https://github.com/WaffleGnome)
+- [Cross Stitch Toy](https://gist.github.com/WaffleGnome/a0468bf56299098948649431acaeeb42) - A cross stitch toy. By [kassandra escoe](https://github.com/WaffleGnome)
 
 ### Phaser
 
