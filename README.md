@@ -31,6 +31,8 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 ### JavaScript
 
+- [PatatapClone](https://github.com/fcallegari7/patatapclone) - Electronic Drum. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
+- [The Great RGB Color Game](https://github.com/fcallegari7/colourgame) - By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
 - [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Play your childhood's game. By [Nima Ra](https://github.com/Nima-Ra)
 - [Simple Clock](https://github.com/mpweber/NotFancyAppChallenge/tree/master/SimpleClock) - A very simple clock. By [mpweber](https://github.com/mpweber)
 - [Random Password Generator](https://github.com/mpweber/NotFancyAppChallenge/tree/master/Random-Password-Generator) - Set a length and create a random password. By [mpweber](https://github.com/mpweber)
@@ -55,3 +57,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 - [Not Fancy Canvas Drawing](https://github.com/rfoel/not-fancy-canvas-drawing) - HTML5 canvas drawing web app. By [@rfoel](https://twitter.com/rfoel)
 - [Bitcoin CryptoCard](https://github.com/mpweber/Bitcoin-CryptoCard-using-ReactJs) - Cryptocard component to track the Bitcoin price and price change. By [@mp_weber](https://twitter.com/mp_weber)
+
+### Express.js
+
+- [Movie Finder](https://github.com/fcallegari7/movie-finder) - Find suggestions of movies, TV series or TV shows. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
