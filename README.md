@@ -57,7 +57,7 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 - [Not Fancy Canvas Draw](https://github.com/Vivek5287445/NotAFancyCanvasDraw) - By [Vivek Kaushik](https://www.instagram.com/iamvivekkaushik/)
 
 ### React.js
-
+-[Todo App](https://github.com/thevenice/myReactApp/) - Simple todo app. by[@thevenicelive](https://twitter.com/Thevenicelive)
 - [Not Fancy Canvas Drawing](https://github.com/rfoel/not-fancy-canvas-drawing) - HTML5 canvas drawing web app. By [@rfoel](https://twitter.com/rfoel)
 - [Bitcoin CryptoCard](https://github.com/mpweber/Bitcoin-CryptoCard-using-ReactJs) - Cryptocard component to track the Bitcoin price and price change. By [@mp_weber](https://twitter.com/mp_weber)
 
