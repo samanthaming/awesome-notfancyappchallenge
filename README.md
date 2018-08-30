@@ -14,9 +14,7 @@ Use the hashtag or tag me on social media so I can give you a shoutout!
 
 #### Guideline
 
-Please read the [contribution](/CONTRIBUTING.md) guideline before adding your challenge.
-
-To add your challenge, you will need to create a Pull Request. [How to Create a PR](./how-to-create-pr.md).
+Please read the [contribution](/CONTRIBUTING.md) guideline before adding your challenge. To add your challenge, you will need to create a Pull Request. [How to Create a PR](./how-to-create-pr.md).
 
 # Not Fancy Apps
 
