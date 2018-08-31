@@ -17,6 +17,10 @@ Use the hashtag or tag me on social media so I can give you a shoutout!
 Please read the [contribution](/CONTRIBUTING.md) guideline before adding your challenge.  
 To add your challenge, you will need to [create a pull request](./how-to-create-pr.md).
 
+#### More Info
+
+You can read more about this challenge in this [blog post](https://medium.com/@samanthaming/notfancyappchallenge-cc04821f72ae)
+
 # Not Fancy Apps
 
 ### Vue.js
