@@ -56,6 +56,7 @@ To add your challenge, you will need to [create a pull request](./how-to-create-
 
 - [Not Fancy Random Password Generator](https://github.com/mddanishansari/not-fancy-random-password-generator) - By [MD Danish Ansari](https://github.com/mddanishansari)
 - [Not Fancy Canvas Draw](https://github.com/Vivek5287445/NotAFancyCanvasDraw) - By [Vivek Kaushik](https://www.instagram.com/iamvivekkaushik/)
+- [The Great RGB Color Game](https://github.com/haideralipunjabi/not-fancy-rgb-color-game) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
 
 ### React.js
 - [Not Fancy Weather App](https://github.com/EhtashamAli/ReactWebApp_v0) - Simple Not Fancy Weather App. By [ehtasham__rajput](https://www.instagram.com/ehtasham__rajput)
