@@ -72,3 +72,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 ### Express.js
 
 - [Movie Finder](https://github.com/fcallegari7/movie-finder) - Find suggestions of movies, TV series or TV shows. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
+
+### HTML and CSS
+
+- [Loading animation](https://github.com/Nima-Ra/Nima-s-NotFancyAppChallenge/tree/master/loading-page) - Just for fun! Simple loading page :) By [Nima-Ra](https://github.com/Nima-Ra)
