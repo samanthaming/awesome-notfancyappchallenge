@@ -38,6 +38,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 ### JavaScript
 
+- [Text to Image](https://github.com/monkeywithacupcake/text-to-image) - Simply make an image from text. By [Jess](https://www.instagram.com/jess__chandler/)
 - [PatatapClone](https://github.com/fcallegari7/patatapclone) - Electronic Drum. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
 - [The Great RGB Color Game](https://github.com/fcallegari7/colourgame) - By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
 - [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Play your childhood's game. By [Nima Ra](https://github.com/Nima-Ra)
