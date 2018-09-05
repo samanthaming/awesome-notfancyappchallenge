@@ -72,3 +72,6 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 ### Express.js
 
 - [Movie Finder](https://github.com/fcallegari7/movie-finder) - Find suggestions of movies, TV series or TV shows. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
+
+### p5.js
+- [Sierpinski Triabgle](https://github.com/haideralipunjabi/p5-projects/tree/master/sierpinski_triangle) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
