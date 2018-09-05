@@ -38,7 +38,6 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 ### JavaScript
 
-- [Text to Image](https://github.com/monkeywithacupcake/text-to-image) - Simply make an image from text. By [Jess](https://www.instagram.com/jess__chandler/)
 - [PatatapClone](https://github.com/fcallegari7/patatapclone) - Electronic Drum. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
 - [The Great RGB Color Game](https://github.com/fcallegari7/colourgame) - By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
 - [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Play your childhood's game. By [Nima Ra](https://github.com/Nima-Ra)
@@ -46,6 +45,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 - [Random Password Generator](https://github.com/mpweber/NotFancyAppChallenge/tree/master/Random-Password-Generator) - Set a length and create a random password. By [mpweber](https://github.com/mpweber)
 - [Linear Gradient Generator](https://github.com/jacobc1204/gradient_app) - Move your cursor or thumb around the screen to watch the gradient change! By [Jacob Carlton](https://github.com/jacobc1204)
 - [Pong Game](https://github.com/coder-abdo/Pong_Game) - The Famous Pong Game Using HTML5 Canvas & ES2015 Features. By [abdelmonaemshahat](https://www.instagram.com/abdelmonaemshahat/)
+[Word Jumble Game](https://arshadumrethi.github.io/word_jumble/) - A word jumble game made with pure JavaScript and HTML/CSS By [Arshad Umrethi](https://twitter.com/arshadumrethi)
 
 ### jQuery
 
@@ -73,6 +73,3 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 ### Express.js
 
 - [Movie Finder](https://github.com/fcallegari7/movie-finder) - Find suggestions of movies, TV series or TV shows. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
-
-### p5.js
-- [Sierpinski Triabgle](https://github.com/haideralipunjabi/p5-projects/tree/master/sierpinski_triangle) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
