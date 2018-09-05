@@ -75,4 +75,4 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 ### HTML and CSS
 
-- [Loading animation](https://github.com/Nima-Ra/Nima-s-NotFancyAppChallenge/tree/master/loading-page) - Just for fun! Simple loading page :) By [Nima-Ra](https://github.com/Nima-Ra)
+- [Loading animation](https://github.com/Nima-Ra/Nima-s-NotFancyAppChallenge/tree/master/loading-page) - A simple just for fun loading page :) By [Nima-Ra](https://github.com/Nima-Ra)
