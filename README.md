@@ -75,5 +75,9 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 - [Movie Finder](https://github.com/fcallegari7/movie-finder) - Find suggestions of movies, TV series or TV shows. By [Fabio Callegari](https://www.linkedin.com/in/fabio-callegari7/)
 
+### HTML and CSS
+
+- [Loading animation](https://github.com/Nima-Ra/Nima-s-NotFancyAppChallenge/tree/master/loading-page) - A simple just for fun loading page :) By [Nima-Ra](https://github.com/Nima-Ra)
+
 ### p5.js
 - [Sierpinski Triabgle](https://github.com/haideralipunjabi/p5-projects/tree/master/sierpinski_triangle) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
