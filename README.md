@@ -64,6 +64,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 - [Not Fancy Canvas Draw](https://github.com/Vivek5287445/NotAFancyCanvasDraw) - By [Vivek Kaushik](https://www.instagram.com/iamvivekkaushik/)
 - [The Great RGB Color Game](https://github.com/haideralipunjabi/not-fancy-rgb-color-game) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
 - [Not Fancy Countdown Timer](https://github.com/Vivek5287445/NotFancyAppChallenge/tree/master/CountdownTimer) - By [Vivek Kaushik](https://www.instagram.com/iamvivekkaushik/)
+
 ### React.js
 
 - [Todo App](https://github.com/thevenice/myReactApp/) - Simple todo app. By [@thevenicelive](https://twitter.com/Thevenicelive)
