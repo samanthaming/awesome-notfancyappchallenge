@@ -65,6 +65,9 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 - [The Great RGB Color Game](https://github.com/haideralipunjabi/not-fancy-rgb-color-game) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
 - [Not Fancy Countdown Timer](https://github.com/Vivek5287445/NotFancyAppChallenge/tree/master/CountdownTimer) - By [Vivek Kaushik](https://www.instagram.com/iamvivekkaushik/)
 
+### iOS
+- [Test Local Notifications](https://github.com/monkeywithacupcake/testlocalnotification) - Cause a local notification with simple user action, example uses button. By [Jess](https://www.instagram.com/jess__chandler/)
+
 ### React.js
 
 - [Todo App](https://github.com/thevenice/myReactApp/) - Simple todo app. By [@thevenicelive](https://twitter.com/Thevenicelive)
@@ -82,3 +85,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 ### p5.js
 - [Sierpinski Triabgle](https://github.com/haideralipunjabi/p5-projects/tree/master/sierpinski_triangle) - By [Haider Ali Punjabi](https://www.instagram.com/haideralipunjabi)
+
+### Bash/Zsh
+- [Encourage Me](https://gist.github.com/monkeywithacupcake/619664e95468fb59360555e0f79a9ed7) - Random string in shell By [Jess](https://www.instagram.com/jess__chandler/)
+- [Catch Phrase Maker](https://gist.github.com/monkeywithacupcake/9e0092733302668b2a4adbbfb1d35748) - Makes an image with a catchphrase, requires ImageMagick By [Jess](https://www.instagram.com/jess__chandler/)
