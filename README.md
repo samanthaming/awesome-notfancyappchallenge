@@ -25,6 +25,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 ### Vue.js
 
+- [Not Fancy Mario Jump](https://github.com/samanthaming/not-fancy-css-mario-jump) - Get Mario to jump and collect coins. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Countdown Timer](https://github.com/samanthaming/not-fancy-countdown-timer) - By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Birthday Checker](https://github.com/rfoel/not-fancy-birthday-checker) - Countdown the days left for your birthday. By [@rfoel](https://twitter.com/rfoel)
 - [Not Fancy Canvas Drawing](https://github.com/samanthaming/not-fancy-canvas-drawing) - HTML5 canvas drawing web app. By [@samantha_ming](https://twitter.com/samantha_ming)
