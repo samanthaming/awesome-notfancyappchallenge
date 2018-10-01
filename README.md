@@ -48,6 +48,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 - [Linear Gradient Generator](https://github.com/jacobc1204/gradient_app) - Move your cursor or thumb around the screen to watch the gradient change! By [Jacob Carlton](https://github.com/jacobc1204)
 - [Pong Game](https://github.com/coder-abdo/Pong_Game) - The Famous Pong Game Using HTML5 Canvas & ES2015 Features. By [abdelmonaemshahat](https://www.instagram.com/abdelmonaemshahat/)
 - [Word Jumble Game](https://arshadumrethi.github.io/word_jumble/) - A word jumble game made with pure JavaScript and HTML/CSS. By [Arshad Umrethi](https://twitter.com/arshadumrethi)
+- [Tea Timer](https://github.com/janetmndz/teatime-v2) - A timer for the recommneded tea brewing times. By [Janet Mendez](https://twitter.com/_janetmendez)
 
 ### jQuery
 
