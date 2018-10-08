@@ -36,6 +36,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 - [Not Fancy Random Number Generator](https://github.com/samanthaming/not-fancy-random-number-generator) By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Vue Todo](https://github.com/samanthaming/not-fancy-vue-todo) - By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Dummy Password Generator](https://github.com/rfoel/dummy-password-generator) - By [@rfoel](https://twitter.com/rfoel)
+- [Not Fancy Shuffle Group](https://github.com/lukmanfreedom/not-fancy-shuffle-group) - By [@lukmanfreedom](https://twitter.com/lukmanfreedom)
 
 ### JavaScript
 
