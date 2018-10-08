@@ -24,6 +24,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 # Not Fancy Apps
 
 ### Vue.js
+- [Not Fancy Text Rotator](https://github.com/samanthaming/not-fancy-text-rotator) - CSS animated text rotator. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Vue Weather Forecast](https://github.com/paraggawde/vue-weather-app) - Gives real-time weather forecast of any valid city on Earth that you enter. By [@paraggawde](https://github.com/paraggawde)
 - [Not Fancy Mario Jump](https://github.com/samanthaming/not-fancy-css-mario-jump) - Get Mario to jump and collect coins. By [@samantha_ming](https://twitter.com/samantha_ming)
 - [Not Fancy Countdown Timer](https://github.com/samanthaming/not-fancy-countdown-timer) - By [@samantha_ming](https://twitter.com/samantha_ming)
