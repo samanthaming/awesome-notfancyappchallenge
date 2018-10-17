@@ -54,6 +54,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 
 ### jQuery
 
+- [Not Fancy Checkbox](https://github.com/azamatmj/Not-Fancy-Checkbox) - Built checkbox challenge almost with pure CSS but a bit jQuery for unchecked any checked boxes. By [@azamatmj](https://www.instagram.com/azamatmj/)
 - [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - BMI calculator. By [Nima Ra](https://github.com/nima-ra)
 - [Not Fancy Stopwatch](https://github.com/Nima-Ra/Stopwatch) - Simple Stopwatch. By [Nima Ra](https://github.com/Nima-ra/stopwatch)
 - [Cross Stitch Toy](https://gist.github.com/WaffleGnome/a0468bf56299098948649431acaeeb42) - A cross stitch toy. By [kassandra escoe](https://github.com/WaffleGnome)
