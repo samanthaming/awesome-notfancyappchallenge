@@ -94,3 +94,7 @@ You can read more about this challenge in this [blog post](https://medium.com/@s
 ### Bash/Zsh
 - [Encourage Me](https://gist.github.com/monkeywithacupcake/619664e95468fb59360555e0f79a9ed7) - Random string in shell. By [Jess](https://www.instagram.com/jess__chandler/)
 - [Catch Phrase Maker](https://gist.github.com/monkeywithacupcake/9e0092733302668b2a4adbbfb1d35748) - Makes an image with a catchphrase, requires ImageMagick. By [Jess](https://www.instagram.com/jess__chandler/)
+
+### Lumen
+
+- [Not Fancy Daily Water Needs Calc](https://github.com/lukmanfreedom/not-fancy-dwn-calc) - By [@lukmanfreedom](https://twitter.com/lukmanfreedom)
